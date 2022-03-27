@@ -1,0 +1,18 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
+.body{
+    
+    color: whitesmoke;
+    background-color: whitesmoke;
+} 
+.the-icons {
+  font-size: 35px;
+}
+
+.buscar{
+    display: flex;
+    
+}
+.form{
+    display: flex;
+    padding-left: 900px;
+}
