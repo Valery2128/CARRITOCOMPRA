@@ -17,7 +17,7 @@ import java.util.Date;
  * @author Giancarlo
  */
 public class fecha {
-    
+    //comentario
     public static String FechaBD() {
         Date fecha=new Date();
             SimpleDateFormat formatFecha=new SimpleDateFormat("dd/MM/YYYY");
